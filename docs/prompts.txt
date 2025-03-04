@@ -1,0 +1,8 @@
+Ahoj
+Co se stane, když závodník poruší antidopingová pravidla?   10.3, 10.4
+Za jakých okolností chápeme pokus soutěžícího na cestě jako ukončený?    4.11
+V čem spočívá tělesný test pro ověření způsobilosti k soutěžení? 3.3.9
+Jak se počítá celkové pořadí v kvalifikaci lezení na obtížnost? Jakým matematickým vzorcem? 4.9.3
+Co je technický incident v lezení na obtížnost? 4.7.1
+Které všechny oficiální soutěžní činitele jmenuje ČHS? 1.4.1
+Konec
