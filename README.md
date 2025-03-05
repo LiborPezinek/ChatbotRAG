@@ -1,2 +1,2 @@
 # ChatbotRAG
-This is an implementation of a chatbot using RAG I did as the Final project of the Principles of Intelligent Systems course.
+This is an implementation of a chatbot using RAG, which I did as the final project of the Principles of Intelligent Systems course.
